@@ -1,3 +1,3 @@
 <template>
-    <h1> Main Page </h1>
+    <h1> Stupid Score </h1>
 </template>
